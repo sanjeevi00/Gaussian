@@ -40,7 +40,7 @@ for i in range(n):
     print("X%d = %0.2f" %(i,res[i]),end=" ")
 ```
 ## Output:
-![gaussian elimination](![image](https://github.com/sanjeevi00/Gaussian/assets/121484976/34582194-a2d4-4bb2-8b49-118961467460))
+![gaussian elimination]![Screenshot 2023-06-03 111638](https://github.com/sanjeevi00/Gaussian/assets/121484976/8c149550-6005-42de-b594-6a4fa09798e1)
 
 
 ## Result:
